@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/brakofi/acs-codes/learning/princeton-algs4/libs/algs4.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
